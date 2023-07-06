@@ -11,3 +11,5 @@ Here is the list of steps that are necessary for the completion of the Internshi
 3) Share the GitHub link where there should be a separate repository with the name of the task completed by you containing all the relevant files of the task.  You have to share this link in the video of completed tasks on LinkedIn and also in the task completion link which will be shared with you later through email.
 
 4) Failing any task would be considered as the Incompletion of the internship. The internship certificate will be shared with the deserving candidates only after the completion of the internship within the duration mentioned in the offer letter.
+
+![image](https://github.com/Yash22222/SYNC-INTERN-S-ML-TASKS/assets/97459174/247fc8f4-b801-4a8f-9878-c228de543b7c)
